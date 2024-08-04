@@ -1,4 +1,4 @@
-# Amazon Clone
+# Amazon Clone ## [[LINK](https://sambit1803.github.io/amazon-clone/)]
 
 **Table of Contents**
 
